@@ -1,0 +1,6 @@
+{
+  "name": "workbench",
+  "version": "0.1.0",
+  "description": "Project-neutral working practices: adversarial PR review, worktree-per-task, PR hand-off, outcome watches, and secret-leak guard hooks.",
+  "author": { "name": "thegreatwarlo" }
+}

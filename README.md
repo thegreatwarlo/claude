@@ -10,8 +10,6 @@ on a shared dev VM; each rule exists because its absence cost something real.
 
 ## Install
 
-The repo is private, so you need read access and a working git login for GitHub.
-
 ```
 /plugin marketplace add thegreatwarlo/claude
 /plugin install workbench@thegreatwarlo

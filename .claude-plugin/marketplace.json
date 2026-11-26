@@ -1,0 +1,11 @@
+{
+  "name": "thegreatwarlo",
+  "owner": { "name": "thegreatwarlo" },
+  "plugins": [
+    {
+      "name": "workbench",
+      "source": "./",
+      "description": "Project-neutral working practices: adversarial PR review, worktree-per-task, PR hand-off, outcome watches, and secret-leak guard hooks."
+    }
+  ]
+}
